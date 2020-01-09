@@ -605,7 +605,7 @@ h1, h2, h3, h4, h5, h6 {
   top: -6px;
   text-transform: uppercase; }
 
-.hero-slider .owl-nav {
+/* .hero-slider .owl-nav {
   position: absolute;
   bottom: 120px;
   right: 50px;
@@ -619,7 +619,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #007bff;
     color: #fff;
     margin-bottom: 10px;
-    font-size: 1.3rem; }
+    font-size: 1.3rem; */
 
 .section-title .sub-title {
   font-size: 1rem;
